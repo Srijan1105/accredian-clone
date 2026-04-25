@@ -4,7 +4,7 @@ A pixel-faithful, fully responsive recreation of [enterprise.accredian.com](http
 
 ## 🚀 Live Demo
 
-> Deploy to Vercel: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/accredian-enterprise)
+> Live Demo: https://accredian-clone-beta-three.vercel.app/
 
 ---
 
